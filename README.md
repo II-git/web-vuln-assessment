@@ -1,7 +1,5 @@
 # Web Application Vulnerability Assessment
 
-**Author: Ismail Ibrahim**
-
 Manual web application security assessment using Burp Suite, targeting business logic and information disclosure vulnerabilities through PortSwigger Web Security Academy labs.
 
 ## Tools Used
